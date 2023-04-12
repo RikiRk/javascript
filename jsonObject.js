@@ -6,6 +6,16 @@ let myobj = {
 
 }
 
-console.log(myobj);
+// console.log(myobj.skill)
+
+
+ let myobj1 = {
+  name: "subha",
+  learn: function () {
+    return "functionit";
+  },
+};
+console.log(myobj1.learn());
+
 
 
